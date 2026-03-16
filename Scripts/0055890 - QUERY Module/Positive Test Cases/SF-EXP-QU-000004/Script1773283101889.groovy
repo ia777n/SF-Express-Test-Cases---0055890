@@ -78,5 +78,4 @@ for (int i = 0; i < parsedDates.size() - 1; i++) {
 
 println "All ${parsedDates.size()} rows are in ascending order by Status Date."
 
-WebUI.closeBrowser()
 

@@ -92,5 +92,3 @@ for (int i = 0; i < parsedDates.size() - 1; i++) {
 }
 
 println "PASS: All ${dates.size()} record(s) shown in ascending order by Status Date."
-
-WebUI.closeBrowser()

@@ -52,5 +52,4 @@ WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/button_Filter
 
 WebUI.delay(3)
 
-WebUI.closeBrowser()
 

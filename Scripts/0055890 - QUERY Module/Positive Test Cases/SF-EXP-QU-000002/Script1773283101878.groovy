@@ -80,5 +80,3 @@ if (invalidRows.size() > 0) {
 }
 
 println "All ${statuses.size()} rows have valid Submission Status values."
-
-WebUI.closeBrowser()

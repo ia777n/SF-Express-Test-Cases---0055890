@@ -69,5 +69,3 @@ if (hasResults) {
     WebUI.closeBrowser()
     assert false, "Error. System did not respond correctly."
 }
-
-WebUI.closeBrowser()

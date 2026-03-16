@@ -89,5 +89,3 @@ if (hasNoRecordsMessage && hawbResults.isEmpty()) {
     WebUI.closeBrowser()
     assert false, "FAIL: No response from system."
 }
-
-WebUI.closeBrowser()

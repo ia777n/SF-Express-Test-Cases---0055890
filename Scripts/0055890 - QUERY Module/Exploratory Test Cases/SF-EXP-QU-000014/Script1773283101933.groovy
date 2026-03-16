@@ -57,5 +57,4 @@ String expectedValue = 'SF1011864459155%'
 // VERIFY
 WebUI.verifyMatch(actualValue, expectedValue, false, FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.closeBrowser()
 

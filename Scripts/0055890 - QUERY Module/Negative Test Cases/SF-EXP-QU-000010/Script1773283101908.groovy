@@ -74,5 +74,3 @@ if (hasNoRecordsMessage && !hasResults) {
     WebUI.closeBrowser()
     assert false, "FAIL: No response from system."
 }
-
-WebUI.closeBrowser()

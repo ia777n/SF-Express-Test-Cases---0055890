@@ -54,5 +54,4 @@ println("Typed 1000 characters, accepted: " + actual1000.length())
 // Continue even if test fails
 WebUI.verifyLessThan(actual1000.length(), input1000.length(), FailureHandling.CONTINUE_ON_FAILURE)
 
-WebUI.closeBrowser()
 
