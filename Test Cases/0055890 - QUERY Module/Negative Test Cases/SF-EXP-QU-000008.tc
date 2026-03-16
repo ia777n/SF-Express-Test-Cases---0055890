@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify how the system handles blank input in filter text field upon repetitive actions</description>
+   <name>SF-EXP-QU-000008</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c36dcbf3-6047-4d22-8bce-b58a11e6d811</testCaseGuid>
+</TestCaseEntity>

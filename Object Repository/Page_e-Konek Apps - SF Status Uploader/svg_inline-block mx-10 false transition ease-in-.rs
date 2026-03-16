@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_inline-block mx-10 false transition ease-in-</name>
+   <tag></tag>
+   <elementGuidId>fae9cbf0-7ffb-472f-a437-244d37c5acd4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span//*[@fill = 'currentColor']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span [fill=&quot;currentColor&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span >> internal:has-text=&quot;Filter&quot;i >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>9fdaf43d-1654-4bec-b7ea-43988bcbeee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>4b9f9edd-0481-4e98-8fa2-d7cf491bc2d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>currentColor</value>
+      <webElementGuid>07346720-b572-4caf-961d-994c8c6353f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>711b13be-48b4-4551-9b17-bf3b04585ab5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+      <webElementGuid>7f48b52b-7686-471b-aa12-45fc4e945e9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block mx-10 false transition ease-in-out duration-200</value>
+      <webElementGuid>78c2589a-2f25-44b3-8fb2-2877b606ad8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>437133b7-5878-433d-949f-58aed50e6cef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>1em</value>
+      <webElementGuid>0196f59f-c279-42b2-bc45-2d107d8dc099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xmlns</name>
+      <type>Main</type>
+      <value>http://www.w3.org/2000/svg</value>
+      <webElementGuid>6393d76b-38fb-4408-90a7-4f73d133c014</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-b816100ca5365c146e52588d499f7f35</value>
+      <webElementGuid>7d4b0a00-874b-4867-80e8-0de6bd94abf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//span//*[@fill = 'currentColor']</value>
+      <webElementGuid>ca837384-7b5e-458f-9832-923fba41077f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span//*[@fill = 'currentColor']</value>
+      <webElementGuid>69abdd46-4054-44a5-b0f0-1d2293654b84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

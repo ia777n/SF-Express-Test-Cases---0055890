@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if the system only retrieves records when a valid HAWB is entered as the search criteria</description>
+   <name>SF-EXP-QU-000011</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>57372b30-d5d4-4c7a-ba8a-bb9a0eb75476</testCaseGuid>
+</TestCaseEntity>

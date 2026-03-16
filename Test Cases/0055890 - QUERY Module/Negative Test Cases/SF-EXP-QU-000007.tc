@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system handles invalid/not existing HAWB upon clicking the filter button</description>
+   <name>SF-EXP-QU-000007</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>51d2e912-d474-443c-8792-5193c1bb4f34</testCaseGuid>
+</TestCaseEntity>

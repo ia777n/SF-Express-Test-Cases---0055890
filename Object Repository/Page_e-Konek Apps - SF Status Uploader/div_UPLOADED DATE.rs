@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_UPLOADED DATE</name>
+   <tag></tag>
+   <elementGuidId>04825b61-2c33-441d-bf7e-4d916036c6a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[8]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2fce0c7a-0529-4704-b596-41d557ef22b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column-id</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>fcf9d341-6a42-4de4-9f81-73464de63cc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-eDVOW ftzeFU</value>
+      <webElementGuid>fc877681-95c1-444d-9b88-7b9004113306</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>UPLOADED DATE</value>
+      <webElementGuid>543d3f45-2f26-4b45-b5df-d11ec0f23e8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>UPLOADED DATE</value>
+      <webElementGuid>4216f16e-86cc-46a5-a7cd-8cbfaf5aad20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;h-screen overflow-auto&quot;]/div[@class=&quot;min-h-screen&quot;]/div[@class=&quot;flex xl:justify-center lg:justify-between justify-center items-start g-6&quot;]/div[@class=&quot;grow-0 shrink-1 md:shrink-0 basis-auto h-full xl:w-full lg:w-full md:w-12/12 mb-12 md:mb-0&quot;]/div[@class=&quot;xl:w-12/12 lg:w-12/12 md:w-12/12 mb-12 md:mb-10 px-10 bg-white rounded-xl&quot;]/div[@class=&quot;sc-dmcuvF jrjCcS bg-white overflow-y-scroll&quot;]/div[@class=&quot;sc-fLcmKr cXjMVu&quot;]/div[@class=&quot;sc-bcXGCL hkPEcy rdt_Table&quot;]/div[@class=&quot;sc-gswONk kUPsJI rdt_TableHead&quot;]/div[@class=&quot;sc-dkrGBB iUKfll rdt_TableHeadRow&quot;]/div[@class=&quot;sc-hLBatu sc-eDvShL sc-ipEzrc gIHijI cPssfJ eVQERa rdt_TableCol&quot;]/div[@class=&quot;sc-csuRvn ilhcix rdt_TableCol_Sortable&quot;]/div[@class=&quot;sc-eDVOW ftzeFU&quot;]</value>
+      <webElementGuid>b0196306-530f-4ed7-9069-e55f09cb6634</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[8]/div/div</value>
+      <webElementGuid>b6b12ee1-5440-4168-b684-22d9aee62402</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SF TRANSMISSION DATE'])[1]/following::div[3]</value>
+      <webElementGuid>a0a99b49-697e-4191-beed-7681d53e1a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STATUS DATE'])[1]/following::div[6]</value>
+      <webElementGuid>45ffb4cf-b4d4-43b3-8576-f4536d0e49f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TYPE'])[1]/preceding::div[1]</value>
+      <webElementGuid>6705550e-af4a-4990-8621-d56af0a1326f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E1004'])[1]/preceding::div[6]</value>
+      <webElementGuid>f9c5ed66-1197-4ebd-977a-d370710f7666</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='UPLOADED DATE']/parent::*</value>
+      <webElementGuid>7ec09db9-8699-415a-a44c-ef935dde6e2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div</value>
+      <webElementGuid>83e43c55-5fc7-431a-9f62-12b449af4451</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@title = 'UPLOADED DATE' and (text() = 'UPLOADED DATE' or . = 'UPLOADED DATE')]</value>
+      <webElementGuid>81014254-b132-4594-a532-0500634b5324</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

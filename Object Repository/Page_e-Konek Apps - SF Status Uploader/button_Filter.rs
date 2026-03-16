@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Filter</name>
+   <tag></tag>
+   <elementGuidId>dfd918a4-1cd9-46b2-9231-e380c30d9469</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded ') and contains(concat(' ', normalize-space(@class), ' '), ' leading-snug ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>.rounded.leading-snug</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Filter&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d6752064-825b-4ce9-bd78-1bfc818a745f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inline-block mx-2 px-7 py-2 bg-blue-600 text-white font-medium leading-snug uppercase rounded shadow-md hover:bg-blue-700 hover:shadow-lg focus:bg-blue-700 focus:shadow-lg focus:outline-none focus:ring-0 active:bg-blue-800 active:shadow-lg transition duration-150 ease-in-out</value>
+      <webElementGuid>931c0794-391e-462d-bee2-400ae5336d79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Filter</value>
+      <webElementGuid>651860f9-7522-4d99-862e-ff1e88a40084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-e4a7a6ef8d94faf619ebd8b0dc604914</value>
+      <webElementGuid>13ae01e6-bb6e-4a09-8ddd-5ea0a9a034bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded ') and contains(concat(' ', normalize-space(@class), ' '), ' leading-snug ')]</value>
+      <webElementGuid>b0ee1696-64df-4355-ba82-705b51129048</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@class and contains(concat(' ', normalize-space(@class), ' '), ' rounded ') and contains(concat(' ', normalize-space(@class), ' '), ' leading-snug ')]</value>
+      <webElementGuid>4cec0a27-d653-41aa-b09e-8bc3845a1df2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Filter' or . = 'Filter')]</value>
+      <webElementGuid>3007ba3e-5d5d-4eb4-b609-94c54c2fc235</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

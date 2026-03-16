@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that entering a valid HAWB (House Waybill) shows accurate results</description>
+   <name>SF-EXP-QU-000001</name>
+   <tag></tag>
+   <comment></comment>
+   <origin>WEB_RECORDER</origin>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>109843ee-30fd-4bea-a409-4fe24d9d1af1</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify row order by STATUS_DATE</description>
+   <name>SF-EXP-QU-000004</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>29229cf1-63ef-46a7-9dfb-953c350a8943</testCaseGuid>
+</TestCaseEntity>

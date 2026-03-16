@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify how the system handles input with special characters in HAWB filter</description>
+   <name>SF-EXP-QU-000010</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c99067fb-0f46-4a7a-9872-05fd8122706f</testCaseGuid>
+</TestCaseEntity>

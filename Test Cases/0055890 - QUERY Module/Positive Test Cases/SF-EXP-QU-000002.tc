@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify that the Submission Status displays correctly on each order</description>
+   <name>SF-EXP-QU-000002</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5d0923f2-91c7-4d43-a42c-67faee163a29</testCaseGuid>
+</TestCaseEntity>

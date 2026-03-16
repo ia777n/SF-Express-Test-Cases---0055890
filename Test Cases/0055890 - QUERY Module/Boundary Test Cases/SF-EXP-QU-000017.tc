@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system behavior when the user enters a maximum-character input in the filter bar</description>
+   <name>SF-EXP-QU-000017</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>1a2febcd-807f-4217-afa0-b2f834e41bb6</testCaseGuid>
+</TestCaseEntity>

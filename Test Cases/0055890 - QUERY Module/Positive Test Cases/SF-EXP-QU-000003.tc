@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify all data columns are visible</description>
+   <name>SF-EXP-QU-000003</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>70f735b3-69bc-4e23-bb55-d7d923c75cb2</testCaseGuid>
+</TestCaseEntity>

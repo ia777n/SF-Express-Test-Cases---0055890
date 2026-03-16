@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_REASON NAME</name>
+   <tag></tag>
+   <elementGuidId>a4b5b406-da04-4cdf-aa31-1601cac72de3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[5]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9084f43d-ae03-499e-bde6-b3da2cde590c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column-id</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>9ac84098-ee03-4c61-9814-5a559ea6735d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-eDVOW ftzeFU</value>
+      <webElementGuid>58acb094-4bae-4582-b69d-0a143a477b49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>REASON NAME</value>
+      <webElementGuid>a598ca15-178f-47c6-af9c-daa0f5ce0f91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;h-screen overflow-auto&quot;]/div[@class=&quot;min-h-screen&quot;]/div[@class=&quot;flex xl:justify-center lg:justify-between justify-center items-start g-6&quot;]/div[@class=&quot;grow-0 shrink-1 md:shrink-0 basis-auto h-full xl:w-full lg:w-full md:w-12/12 mb-12 md:mb-0&quot;]/div[@class=&quot;xl:w-12/12 lg:w-12/12 md:w-12/12 mb-12 md:mb-10 px-10 bg-white rounded-xl&quot;]/div[@class=&quot;sc-dmcuvF jrjCcS bg-white overflow-y-scroll&quot;]/div[@class=&quot;sc-fLcmKr cXjMVu&quot;]/div[@class=&quot;sc-bcXGCL hkPEcy rdt_Table&quot;]/div[@class=&quot;sc-gswONk kUPsJI rdt_TableHead&quot;]/div[@class=&quot;sc-dkrGBB iUKfll rdt_TableHeadRow&quot;]/div[@class=&quot;sc-hLBatu sc-eDvShL sc-ipEzrc gIHijI cPssfJ eVQERa rdt_TableCol&quot;]/div[@class=&quot;sc-csuRvn ilhcix rdt_TableCol_Sortable&quot;]/div[@class=&quot;sc-eDVOW ftzeFU&quot;]</value>
+      <webElementGuid>1c117670-ef0b-4928-9b83-943371d6a1b0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[5]/div/div</value>
+      <webElementGuid>36d9b2ef-7f2b-4195-b142-8835e2d4191a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REASON CODE'])[1]/following::div[3]</value>
+      <webElementGuid>304299ae-c8d4-4f58-8d59-0958d546c380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EVENT CODE'])[1]/following::div[6]</value>
+      <webElementGuid>bfec03bd-3f99-4a45-a116-d8f309e29257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='STATUS DATE'])[1]/preceding::div[1]</value>
+      <webElementGuid>6e418190-c4f2-4e75-903c-4566010e9f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SF TRANSMISSION DATE'])[1]/preceding::div[4]</value>
+      <webElementGuid>40f894ae-2007-4c91-ae47-c2a620c99773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='REASON NAME']/parent::*</value>
+      <webElementGuid>b99bdaf7-12b7-4c4e-ace7-2edf668c5667</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div</value>
+      <webElementGuid>cfe651e7-78dc-4dbc-bf61-4c1fd6cbf498</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'REASON NAME' or . = 'REASON NAME')]</value>
+      <webElementGuid>d080cdb0-2949-4426-a1fd-bd659944ba6e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

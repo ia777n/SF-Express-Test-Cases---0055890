@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_STATUS DATE</name>
+   <tag></tag>
+   <elementGuidId>7967f2d5-de46-4a2c-bfa1-f45907bf55e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/section/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[6]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4e4f2803-50f1-4378-a09e-c43b817a5748</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-column-id</name>
+      <type>Main</type>
+      <value>6</value>
+      <webElementGuid>540d3313-fcad-4c95-b407-d49e66e79252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-eDVOW ftzeFU</value>
+      <webElementGuid>ec6b9e42-f17d-46f9-b9e0-12d89b0918ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>STATUS DATE</value>
+      <webElementGuid>25fab6e2-13c0-4331-9f87-c1f1a22924d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/section[@class=&quot;h-screen overflow-auto&quot;]/div[@class=&quot;min-h-screen&quot;]/div[@class=&quot;flex xl:justify-center lg:justify-between justify-center items-start g-6&quot;]/div[@class=&quot;grow-0 shrink-1 md:shrink-0 basis-auto h-full xl:w-full lg:w-full md:w-12/12 mb-12 md:mb-0&quot;]/div[@class=&quot;xl:w-12/12 lg:w-12/12 md:w-12/12 mb-12 md:mb-10 px-10 bg-white rounded-xl&quot;]/div[@class=&quot;sc-dmcuvF jrjCcS bg-white overflow-y-scroll&quot;]/div[@class=&quot;sc-fLcmKr cXjMVu&quot;]/div[@class=&quot;sc-bcXGCL hkPEcy rdt_Table&quot;]/div[@class=&quot;sc-gswONk kUPsJI rdt_TableHead&quot;]/div[@class=&quot;sc-dkrGBB iUKfll rdt_TableHeadRow&quot;]/div[@class=&quot;sc-hLBatu sc-eDvShL sc-ipEzrc gIHijI cPssfJ eVQERa rdt_TableCol&quot;]/div[@class=&quot;sc-csuRvn ilhcix rdt_TableCol_Sortable&quot;]/div[@class=&quot;sc-eDVOW ftzeFU&quot;]</value>
+      <webElementGuid>764e34f5-6dc7-4235-b5e2-c20d6d24acf6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/section/div/div[2]/div/div[2]/div[2]/div/div/div/div/div[6]/div/div</value>
+      <webElementGuid>fbfe8827-5a1c-4e08-8c6d-6c1677e5780a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REASON NAME'])[1]/following::div[3]</value>
+      <webElementGuid>f9ac9080-de13-4988-916f-33a5bfd0b46f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REASON CODE'])[1]/following::div[6]</value>
+      <webElementGuid>9a0362c8-aca2-4451-abbe-ee9caa80deda</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SF TRANSMISSION DATE'])[1]/preceding::div[1]</value>
+      <webElementGuid>05703fb5-905a-4e34-9aee-24816d10d55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UPLOADED DATE'])[1]/preceding::div[4]</value>
+      <webElementGuid>2fecff7e-f75e-4b35-9c17-1266f5b23e07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='STATUS DATE']/parent::*</value>
+      <webElementGuid>d24029f0-69c7-4aae-a10c-9dd04571e7a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div</value>
+      <webElementGuid>8e27a706-6213-4a54-991d-9793e76125b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'STATUS DATE' or . = 'STATUS DATE')]</value>
+      <webElementGuid>640b2464-cd06-4c16-9cc2-d1d182b731fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

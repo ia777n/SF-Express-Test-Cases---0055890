@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system behavior upon repetitive clicking of Filter button</description>
+   <name>SF-EXP-QU-000013</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bc7b447b-acd3-4087-be55-ae0bd0a9f778</testCaseGuid>
+</TestCaseEntity>

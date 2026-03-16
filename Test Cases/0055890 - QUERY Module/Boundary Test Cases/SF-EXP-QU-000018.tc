@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system behavior when the user enters an input exceeding the maximum character limit</description>
+   <name>SF-EXP-QU-000018</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b02d2922-b6a8-4875-b65b-7ecca9620552</testCaseGuid>
+</TestCaseEntity>

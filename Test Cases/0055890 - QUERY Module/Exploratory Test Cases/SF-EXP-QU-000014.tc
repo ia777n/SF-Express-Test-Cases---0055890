@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify system behavior when special characters or wildcard characters are included in the HAWB search input</description>
+   <name>SF-EXP-QU-000014</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5f358b1-f5bc-4972-ba6d-71b88ed3353b</testCaseGuid>
+</TestCaseEntity>

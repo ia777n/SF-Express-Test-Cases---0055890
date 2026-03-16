@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify if HAWB input is case sensitive in HAWB filter</description>
+   <name>SF-EXP-QU-000012</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef8397c2-1904-44f0-b221-62ee8b07e927</testCaseGuid>
+</TestCaseEntity>

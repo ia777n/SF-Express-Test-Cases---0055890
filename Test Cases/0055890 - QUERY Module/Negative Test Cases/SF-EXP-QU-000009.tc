@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Verify how the system handles space-only input</description>
+   <name>SF-EXP-QU-000009</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b5bcb3b8-2b4a-44cf-a04f-2db8d8bdc37e</testCaseGuid>
+</TestCaseEntity>

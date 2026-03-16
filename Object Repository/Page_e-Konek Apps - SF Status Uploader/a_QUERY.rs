@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_QUERY</name>
+   <tag></tag>
+   <elementGuidId>85ecb15a-8866-4d36-b0f6-e9cb619c3e7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@href = '/query']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>[href=&quot;\/query&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;QUERY&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9daa45c2-e5b4-46ac-997f-b64d5ec990db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/query</value>
+      <webElementGuid>de45eab6-e33f-4025-be0e-ab3a0c23fb7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>QUERY</value>
+      <webElementGuid>fc7a5cd0-c925-4c80-9cd2-35466e5e8f5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>parent</name>
+      <type>Main</type>
+      <value>md5.v1-1f79140ac0f58801e72d99ebc04d9d22</value>
+      <webElementGuid>d82a24ef-3be2-4f6b-9675-f33d9c1b1dd4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@href = '/query']</value>
+      <webElementGuid>fe42cdfe-bb89-4058-bf3e-72e0c908d910</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//*[@href = '/query']</value>
+      <webElementGuid>712c7423-88fb-4918-b9db-fbccc7a92fce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/query' and (text() = 'QUERY' or . = 'QUERY')]</value>
+      <webElementGuid>d6237a54-8def-438f-85e4-f7aa25c8065c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
