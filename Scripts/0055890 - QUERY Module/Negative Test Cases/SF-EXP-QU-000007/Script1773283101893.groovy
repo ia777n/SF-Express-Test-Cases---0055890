@@ -23,9 +23,9 @@ import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 WebUI.openBrowser('')
 WebUI.navigateToUrl('https://sf.ekonek.com/login')
 
-WebUI.setText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Username'), 'NMM_User')
+WebUI.setText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Username'), GlobalVariable.username)
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Password'))
-WebUI.setEncryptedText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Password'), 'IMrpfjBbSL8n+osp8It7RQ==')
+WebUI.setEncryptedText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Password'), GlobalVariable.password)
 
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/button_Login'))
 
@@ -48,7 +48,7 @@ WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/svg_inline-bl
 
 // Enter nonexistent HAWB
 WebUI.waitForElementVisible(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_HAWB'), 30)
-WebUI.setText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_HAWB'), 'Test')
+WebUI.setText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_HAWB'), 'Test67')
 
 WebUI.waitForElementClickable(findTestObject('Page_e-Konek Apps - SF Status Uploader/button_Filter'), 30)
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/button_Filter'))

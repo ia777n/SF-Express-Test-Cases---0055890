@@ -12,108 +12,122 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>8370b31f-a402-4741-85b1-8b08e56d978e</testSuiteGuid>
    <testCaseLink>
-      <guid>088c6d72-2a65-484c-97a7-ee7de45bc290</guid>
+      <guid>4d0c13c4-96ca-4469-a13f-c763d4f60c87</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Positive Test Cases/SF-EXP-QU-000001</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>cc66fba7-6ff0-4f22-a4ab-a7039ca50009</guid>
+      <guid>e6d19df6-b671-4e5d-a4ac-e825b3e9dd3d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Positive Test Cases/SF-EXP-QU-000002</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1f784da3-f73c-4f94-8c85-12e2bc723d39</guid>
+      <guid>91368b2e-8ac3-4af0-9870-4164d991da5f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Positive Test Cases/SF-EXP-QU-000003</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>311108e7-c3b1-43db-ba72-20767c358728</guid>
+      <guid>b4b4c8fc-9ef9-4df9-a6a1-40331742150f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Positive Test Cases/SF-EXP-QU-000004</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>490349a9-03d4-4687-8185-902e91e5c6bb</guid>
+      <guid>fa2fa35d-1b8b-47bc-b3ca-ede66d3c4c35</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Negative Test Cases/SF-EXP-QU-000007</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>f68312d5-a214-44d9-b60e-b993327a516b</guid>
+      <guid>18933e4c-90ba-432b-89aa-662fb0f667fe</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Negative Test Cases/SF-EXP-QU-000008</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>595d28fc-6776-4d58-8d50-4c39daa65302</guid>
+      <guid>c247f9fe-47bf-4f9c-840a-9f939e24d3c4</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Negative Test Cases/SF-EXP-QU-000009</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d33d25aa-6b8c-42f6-8835-2a23ecedc7ea</guid>
+      <guid>87864764-3176-4675-b08d-545922752235</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Negative Test Cases/SF-EXP-QU-000010</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>1c8b79b6-2639-4569-9701-886d528652cc</guid>
+      <guid>6af86f3b-08be-4797-98df-2346481b12b8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Negative Test Cases/SF-EXP-QU-000011</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>babc0773-3905-4230-97c3-337e90018da0</guid>
+      <guid>e78d2a23-1b4e-4b1a-9770-218fe39c55f8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Exploratory Test Cases/SF-EXP-QU-000012</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>e18aff15-252a-4f41-947d-10570720ec0f</guid>
+      <guid>d7033cab-7595-4205-91c4-4773fa2b029d</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Exploratory Test Cases/SF-EXP-QU-000013</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>d7e0da13-b2e0-4370-a411-3aa258c4a1d8</guid>
+      <guid>6c665122-2f2a-4a82-954e-eae11e557e6f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Exploratory Test Cases/SF-EXP-QU-000014</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>ea6670b0-8668-440c-8996-df5fd30c0559</guid>
+      <guid>4e02963f-7c65-4021-ae07-b288b19abc31</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/0055890 - QUERY Module/Boundary Test Cases/SF-EXP-QU-000016</testCaseId>
+      <testCaseId>Test Cases/0055890 - QUERY Module/Exploratory Test Cases/SF-EXP-QU-000015</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>889bb13b-5f1c-4d80-bde3-5d1c714fbb98</guid>
+      <guid>4f2b2d4c-8f57-4ee0-a9b1-e99ffef20aa8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/0055890 - QUERY Module/Boundary Test Cases/SF-EXP-QU-000017</testCaseId>
+      <testCaseId>Test Cases/0055890 - QUERY Module/Exploratory Test Cases/SF-EXP-QU-000017</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
    <testCaseLink>
-      <guid>fbc98090-d3e6-47b1-aa10-865540bf9168</guid>
+      <guid>0be69152-36ef-4d69-899f-3af41b17048c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/0055890 - QUERY Module/Boundary Test Cases/SF-EXP-QU-000018</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>5dd2f0c6-a513-43b2-b877-d9218022edf3</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/0055890 - QUERY Module/Boundary Test Cases/SF-EXP-QU-000019</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>185e9918-1e23-41c8-a710-1df91cec8c4e</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/0055890 - QUERY Module/Boundary Test Cases/SF-EXP-QU-000020</testCaseId>
       <usingDataBindingAtTestSuiteLevel>false</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

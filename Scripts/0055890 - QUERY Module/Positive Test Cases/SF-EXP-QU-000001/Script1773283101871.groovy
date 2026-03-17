@@ -20,9 +20,9 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 WebUI.navigateToUrl('https://sf.ekonek.com/login')
 
-WebUI.setText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Username'), 'NMM_User')
+WebUI.setText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Username'), GlobalVariable.username)
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Password'))
-WebUI.setEncryptedText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Password'), 'IMrpfjBbSL8n+osp8It7RQ==')
+WebUI.setEncryptedText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Password'), GlobalVariable.password)
 
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/button_Login'))
 
@@ -31,7 +31,7 @@ WebUI.waitForElementVisible(findTestObject('Page_e-Konek Apps - SF Status Upload
 WebUI.waitForElementClickable(findTestObject('Page_e-Konek Apps - SF Status Uploader/svg_text-4xl inline-block mx-10 false transition'), 30)
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/svg_text-4xl inline-block mx-10 false transition'))
 
-//Wait for QUERY link to appear BEFORE clicking it (moved wait to before the click)
+// Wait for QUERY link to appear BEFORE clicking it
 WebUI.waitForElementVisible(findTestObject('Page_e-Konek Apps - SF Status Uploader/a_QUERY'), 80)
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/a_QUERY'))
 
@@ -43,9 +43,12 @@ WebUI.waitForElementVisible(findTestObject('Page_e-Konek Apps - SF Status Upload
 WebUI.waitForElementClickable(findTestObject('Page_e-Konek Apps - SF Status Uploader/svg_inline-block mx-10 false transition ease-in-'), 30)
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/svg_inline-block mx-10 false transition ease-in-'))
 
+WebUI.waitForElementVisible(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_HAWB'), 30)
 WebUI.setText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_HAWB'), '728456401351')
+
+WebUI.waitForElementClickable(findTestObject('Page_e-Konek Apps - SF Status Uploader/button_Filter'), 30)
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/button_Filter'))
 
-WebUI.delay(3)
+WebUI.waitForElementNotPresent(findTestObject('Page_e-Konek Apps - SF Status Uploader/div_LoadingOKNoCancel'), 120)
 
-
+WebUI.closeBrowser()

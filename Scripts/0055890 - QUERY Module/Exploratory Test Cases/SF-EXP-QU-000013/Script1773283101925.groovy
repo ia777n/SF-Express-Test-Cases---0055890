@@ -20,9 +20,9 @@ import org.openqa.selenium.Keys as Keys
 WebUI.openBrowser('')
 WebUI.navigateToUrl('https://sf.ekonek.com/login')
 
-WebUI.setText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Username'), 'NMM_User')
+WebUI.setText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Username'), GlobalVariable.username)
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Password'))
-WebUI.setEncryptedText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Password'), 'IMrpfjBbSL8n+osp8It7RQ==')
+WebUI.setEncryptedText(findTestObject('Page_e-Konek Apps - SF Status Uploader/input_Password'), GlobalVariable.password)
 
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/button_Login'))
 
@@ -50,6 +50,6 @@ WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/button_Filter
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/button_Filter'))
 WebUI.click(findTestObject('Page_e-Konek Apps - SF Status Uploader/button_Filter'))
 
-WebUI.delay(3)
+WebUI.waitForElementNotPresent(findTestObject('Page_e-Konek Apps - SF Status Uploader/div_LoadingOKNoCancel'), 120)
 
 

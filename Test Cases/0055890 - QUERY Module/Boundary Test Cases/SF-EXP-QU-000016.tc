@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Verify system behavior when the user enters a one-character input in the filter bar</description>
-   <name>SF-EXP-QU-000016</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>e0a30525-3bdf-432d-a444-c775c94da748</testCaseGuid>
-</TestCaseEntity>
